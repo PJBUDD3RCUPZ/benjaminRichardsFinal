@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
 class testSelectionSort {
-
+//fixed here
 	
 	@Test public void testPositives() {
 		SelectionSort selectionSort = new SelectionSort();
